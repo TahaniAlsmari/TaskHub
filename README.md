@@ -43,7 +43,8 @@ We didn't just design screens — we designed for real team friction:
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/01-get-started.png" width="200"/
+  <img width="2358" height="2440" alt="image" src="https://github.com/user-attachments/assets/cc20fd52-508a-48cc-8742-caf0a6a9d8f7" />
+
 </p>
 
 
