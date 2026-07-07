@@ -44,7 +44,7 @@ We didn't just design screens — we designed for real team friction:
 ## Screenshots
 <p align="center">
   <img <img width="2355" height="2440" alt="image" src="https://github.com/user-attachments/assets/d05f4007-8bb8-4225-8e7d-c3796b813de0" />
- />
+ 
 
 </p>
 
