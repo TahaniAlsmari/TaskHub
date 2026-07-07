@@ -50,8 +50,8 @@ We didn't just design screens — we designed for real team friction:
 </p>
 
 ## Try It Yourself
-[View the Interactive Prototype on Figma →]
-https://www.figma.com/proto/rl5kE2w8Cg0uFZJoM9qnrZ/HCI_project--Copy-?node-id=2314-1115&t=s5jf3BIZj8ipFntY-1
+[Click here to try it →](https://www.figma.com/proto/rl5kE2w8Cg0uFZJoM9qnrZ/HCI_project--Copy-?node-id=2314-1115&t=s5jf3BIZj8ipFntY-1)
+
 
 ## Built With
 Figma — UI/UX Design & Prototyping
